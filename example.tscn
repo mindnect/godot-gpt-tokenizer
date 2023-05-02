@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b3pcnibyoi6ag"]
+
+[ext_resource type="Script" path="res://example.gd" id="1_shc23"]
+
+[node name="TextEdit" type="TextEdit"]
+offset_right = 416.0
+offset_bottom = 233.0
+script = ExtResource("1_shc23")
